@@ -31,3 +31,7 @@ Contains three parts:
 
     Example:
     page > 100 (condition) ? "over a thousand"(true) : "less than 1000"(false);
+
+### 5. Arrow Functions
+Essentially useful in situations where shorter function definitions improve code readability.
+Useful in callbacks and functional programming
