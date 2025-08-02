@@ -35,3 +35,13 @@ Contains three parts:
 ### 5. Arrow Functions
 Essentially useful in situations where shorter function definitions improve code readability.
 Useful in callbacks and functional programming
+
+### 6. Short-Circuiting and Logical Operators: `&&`, `||`, `??` 
+Short-circuiting means JavaScript stops evaluating an expression as soon as it knows the final result.
+This happens with logical operators like:
+    || (OR)
+    && (AND)
+    ?? (Nullish coalescing)
+
+🧠 Why It’s Called “Short-Circuiting”?
+Because JavaScript short-circuits the rest of the expression once it knows the result.
