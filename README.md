@@ -2,9 +2,12 @@
 Let us look at the essential JavaScript that you need to know before using Frontend Frameworks
 
 ## Prerequisites 
-Node.js (for running JS files locally)
-Any code editor (VS Code recommended)
-Install quokka extension on VS Code to visually see the output/ result
+Node.js (for running JS files locally).
+
+Any code editor (VS Code recommended).
+
+Install quokka extension on VS Code to visually see the output/ result.
+
 Follow up the concepts per branch.
 
 ## Essential topics to master
