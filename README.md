@@ -23,3 +23,11 @@ Both are essential in modern frontend frameworks in handling props, managing sta
 It is an ES6 feature, modern way of creating strings that allow embedded expressions, multiline strings and enhanced readability.
 Explore string interpolation with backticks and embedded expressions.
 
+### 4. Ternaries
+Contains three parts:
+    1. Condition
+    2. Results of the operation if the condition is true
+    3. Result of the operation if the result is false
+
+    Example:
+    page > 100 (condition) ? "over a thousand"(true) : "less than 1000"(false);
