@@ -16,3 +16,11 @@ async function todos(){
 const getTodos = todos()
 
 console.log(getTodos)
+
+/* 
+fetch() gets data from the internet (async)
+
+await pauses the function until it gets a response
+
+response.json() turns it into usable JSON
+*/
