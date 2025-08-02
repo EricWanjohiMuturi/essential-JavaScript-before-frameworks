@@ -58,3 +58,6 @@ In filter method, a condition has to be set first... in order to filter the item
 ### 10. Array Reduce Method
 Can be used for summing, counting, etc. where 0 is the initial value of sum
 It is the most versatile and more powerful array method among the other methods.
+
+### 11. Array Sort Method
+Used to sort an array. This is not a functional array method, but it mutates the array
