@@ -84,8 +84,22 @@ A Promise is an object that represents a value that will be available later
     Data is here!
 
 Promise States:
+
     - pending – still waiting.
 
     - fulfilled – it worked (use .then).
 
     - rejected – it failed (use .catch).
+
+### 13. Asynchronous JavaScript: Async/Await  
+Write cleaner asynchronous code using `async` and `await`.
+
+---
+
+## 🛠️ How to Use
+
+Clone the repository and navigate into the folder:
+
+```bash
+git https://github.com/EricWanjohiMuturi/essential-JavaScript-before-frameworks
+cd essential-JavaScript-before-frameworks
