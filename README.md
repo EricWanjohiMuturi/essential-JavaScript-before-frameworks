@@ -48,3 +48,6 @@ Because JavaScript short-circuits the rest of the expression once it knows the r
 
 ### 7. Optional Chaining 
 Optional chaining (?.) safely accesses deeply nested object properties without throwing an error if something is undefined or null.
+
+### 8. Array Map Method
+Transform arrays using `map()` to create new arrays from existing data.
