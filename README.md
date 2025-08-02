@@ -54,3 +54,7 @@ Transform arrays using `map()` to create new arrays from existing data.
 
 ### 9. Array Filter Method
 In filter method, a condition has to be set first... in order to filter the items in the array where the condition has been met
+
+### 10. Array Reduce Method
+Can be used for summing, counting, etc. where 0 is the initial value of sum
+It is the most versatile and more powerful array method among the other methods.
