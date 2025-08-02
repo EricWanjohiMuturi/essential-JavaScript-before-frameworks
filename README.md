@@ -17,3 +17,5 @@ Spread = Used to unpack (spread) elements from an array or object.
 If you’re unpacking, it’s spread.
 If you’re gathering, it’s rest.
 
+both are essential in modern frontend frameworks for handling props, managing state and improving code readability.
+
