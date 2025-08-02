@@ -61,3 +61,7 @@ It is the most versatile and more powerful array method among the other methods.
 
 ### 11. Array Sort Method
 Used to sort an array. This is not a functional array method, but it mutates the array
+Sort elements in an array with custom comparator functions.
+
+### 11. Working With Immutable Arrays  
+Update and manage arrays without mutating original data.
