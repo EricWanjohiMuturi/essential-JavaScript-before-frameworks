@@ -51,3 +51,6 @@ Optional chaining (?.) safely accesses deeply nested object properties without t
 
 ### 8. Array Map Method
 Transform arrays using `map()` to create new arrays from existing data.
+
+### 9. Array Filter Method
+In filter method, a condition has to be set first... in order to filter the items in the array where the condition has been met
