@@ -45,3 +45,6 @@ This happens with logical operators like:
 
 🧠 Why It’s Called “Short-Circuiting”?
 Because JavaScript short-circuits the rest of the expression once it knows the result.
+
+### 7. Optional Chaining 
+Optional chaining (?.) safely accesses deeply nested object properties without throwing an error if something is undefined or null.
