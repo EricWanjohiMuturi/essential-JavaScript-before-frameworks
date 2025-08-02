@@ -65,3 +65,27 @@ Sort elements in an array with custom comparator functions.
 
 ### 11. Working With Immutable Arrays  
 Update and manage arrays without mutating original data.
+
+### 12. Asynchronous JavaScript: Promises
+Handle asynchronous operations using `Promise` objects and chaining.
+A Promise is an object that represents a value that will be available later
+
+    Example:
+    const fetchData = new Promise((resolve, reject) => {
+    setTimeout(() => {
+        resolve("Data is here!");
+    }, 1000);
+    });
+
+    fetchData.then((data) => {
+    console.log(data);
+    });
+    ⏳ After 1 second, it logs:
+    Data is here!
+
+Promise States:
+    - pending – still waiting.
+
+    - fulfilled – it worked (use .then).
+
+    - rejected – it failed (use .catch).
